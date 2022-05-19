@@ -3,11 +3,6 @@
 - 🎓 Bachelor in Information Systems
 - 📱 Currently working with flutter
 
-### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gilbertohnrq/)](https://github.com/gilbertohnrq/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-henrique-soares-da-silva-757055193/)](https://www.linkedin.com/in/gilberto-henrique-soares-da-silva-757055193/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.gilbertohnrq@gmail.com)](mailto:defcon.gilbertohnrq@gmail.com)
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilbertohnrq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertohnrq&layout=compact&langs_count=16&theme=dark"/>
